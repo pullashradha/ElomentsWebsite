@@ -3,3 +3,20 @@ body {
   background-color: #FFFFFF;
   font-family: serif;
 }
+
+#eloments {
+  font-size: 75px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.navbar {
+  position: fixed;
+  left: 26.5%;
+}
+
+h2 {
+  float: left;
+  font-weight: lighter;
+  margin-right: 50px;
+}
