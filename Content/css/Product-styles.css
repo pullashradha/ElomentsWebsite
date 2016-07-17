@@ -38,27 +38,3 @@
 }
 
 /*--------------------------Product Styles--------------------------*/
-
-.all-products {
-  margin-left: 12%;
-  margin-bottom: 10%;
-}
-
-.product-content {
-  float: left;
-  text-align: center;
-  margin-right: 50px;
-}
-
-.product-content img {
-  width: 300px;
-  height: 500px;
-}
-
-.product-content h2 {
-  font-size: 20pt;
-}
-
-p {
-  font-size: 16pt;
-}
