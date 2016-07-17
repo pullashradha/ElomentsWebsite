@@ -24,13 +24,13 @@
   left: 26.5%;
 }
 
-h2 {
+.navbar h2 {
   float: left;
   font-weight: lighter;
   margin-right: 50px;
 }
 
-h2:hover {
+.navbar h2:hover {
   color: #FFFFFF;
   background-color: #000000;
   padding: 12px 12px 12px 12px;

@@ -25,14 +25,40 @@
   margin-top: -60px;
 }
 
-h2 {
+.navbar h2 {
   float: left;
   font-weight: lighter;
   margin-right: 50px;
 }
 
-h2:hover {
+.navbar h2:hover {
   color: #FFFFFF;
   background-color: #000000;
   padding: 12px 12px 12px 12px;
+}
+
+/*--------------------------Product Styles--------------------------*/
+
+.products {
+  margin-left: 12%;
+  margin-bottom: 10%;
+}
+
+.item-content {
+  float: left;
+  text-align: center;
+  margin-right: 50px;
+}
+
+img {
+  width: 300px;
+  height: 500px;
+}
+
+.item-content h2 {
+  font-size: 20pt;
+}
+
+p {
+  font-size: 16pt;
 }
