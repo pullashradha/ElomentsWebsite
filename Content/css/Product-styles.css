@@ -47,7 +47,7 @@
 
 .text-content {
   float: right;
-  margin-right: 18%;
+  margin-right: 15%;
   text-align: center;
 }
 
@@ -58,4 +58,19 @@
 .text-content h3 {
   font-size: 22pt;
   font-weight: lighter;
+}
+
+.text-content h4 {
+  font-size: 18pt;
+}
+
+.text-content input {
+  margin-left: 15px;
+  height: 30px;
+}
+
+.text-content button {
+  font-size: 18pt;
+  border-style: solid;
+  margin-left: 15px;
 }
